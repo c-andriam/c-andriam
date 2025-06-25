@@ -32,9 +32,9 @@ Good luck with your GitHub journey!
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" style="width:50%; padding-right:20px; border-right: 1px solid #414868;">
       <h3>👨‍💻 About Me</h3>
       <p>
         I'm a software developer and a current student at <a href="https://42antananarivo.mg/" target="_blank"><b>42 Antananarivo</b></a>, where I'm honing my skills through a project-based, peer-to-peer learning methodology. This experience has given me a solid foundation in <b>Unix</b>, <b>Object-Oriented Programming</b>, and <b>Network & System Administration</b>. I thrive on solving complex problems with rigor and creativity.
@@ -45,7 +45,7 @@ Good luck with your GitHub journey!
         <li>👯 <b>Looking to Collaborate:</b> I'm excited to contribute to open-source projects, especially those that challenge my skills in systems programming and DevOps.</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" style="width:50%; padding-left:20px;">
       <h3>👨‍💻 À propos de moi</h3>
       <p>
         Je suis un développeur et étudiant à <a href="https://42antananarivo.mg/" target="_blank"><b>42 Antananarivo</b></a>, où j'affine mes compétences via une pédagogie par projets et peer-to-peer. Ce parcours m'a donné des bases solides en <b>Unix</b>, <b>Programmation Orientée Objet</b> et <b>Administration Système & Réseau</b>. J'aime résoudre des problèmes complexes avec rigueur et créativité.
