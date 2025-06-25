@@ -48,7 +48,7 @@ Good luck with your GitHub journey!
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/christiano-daniel-juvence-andriambeloniaina-918865225" target="www.linkedin.com/in/christiano-daniel-juvence-andriambeloniaina-918865225">
+  <a href="https://www.linkedin.com/in/christiano-daniel-juvence-andriambeloniaina-918865225" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <!-- 
