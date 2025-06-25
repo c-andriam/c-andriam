@@ -32,16 +32,34 @@ Good luck with your GitHub journey!
 
 ---
 
-### 👨‍💻 About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I'm a software developer and a current student at <a href="https://42antananarivo.mg/" target="_blank"><b>42 Antananarivo</b></a>, where I'm honing my skills through a project-based, peer-to-peer learning methodology. This experience has given me a solid foundation in <b>Unix</b>, <b>Object-Oriented Programming</b>, and <b>Network & System Administration</b>. I thrive on solving complex problems with rigor and creativity.
+      </p>
+      <ul>
+        <li>🔭 <b>Core Strengths:</b> My expertise lies in imperative and object-oriented programming (C, C++), shell scripting, and system integration.</li>
+        <li>🌱 <b>Currently Learning:</b> I'm diving deeper into cloud-native technologies like Docker and exploring advanced concepts in game engine architecture with Unity.</li>
+        <li>👯 <b>Looking to Collaborate:</b> I'm excited to contribute to open-source projects, especially those that challenge my skills in systems programming and DevOps.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 À propos de moi</h3>
+      <p>
+        Je suis un développeur et étudiant à <a href="https://42antananarivo.mg/" target="_blank"><b>42 Antananarivo</b></a>, où j'affine mes compétences via une pédagogie par projets et peer-to-peer. Ce parcours m'a donné des bases solides en <b>Unix</b>, <b>Programmation Orientée Objet</b> et <b>Administration Système & Réseau</b>. J'aime résoudre des problèmes complexes avec rigueur et créativité.
+      </p>
+      <ul>
+        <li>🔭 <b>Points Forts :</b> Mon expertise réside dans la programmation impérative et orientée objet (C, C++), le scripting shell et l'intégration système.</li>
+        <li>🌱 <b>J'apprends actuellement :</b> Je me plonge dans les technologies cloud-native comme Docker et j'explore l'architecture des moteurs de jeu avec Unity.</li>
+        <li>👯 <b>Ouvert à la collaboration :</b> Je suis motivé pour contribuer à des projets open-source, particulièrement ceux qui touchent au développement système et au DevOps.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p>
-  I'm a software developer and a current student at <a href="https://42antananarivo.mg/" target="_blank"><b>42 Antananarivo</b></a>, where I'm honing my skills through a project-based, peer-to-peer learning methodology. This experience has given me a solid foundation in <b>Unix</b>, <b>Object-Oriented Programming</b>, and <b>Network & System Administration</b>. I thrive on solving complex problems with rigor and creativity.
-</p>
-
-- 🔭 **Core Strengths:** My expertise lies in imperative and object-oriented programming (C, C++), shell scripting, and system integration. I enjoy building robust, organized, and efficient solutions.
-- 🌱 **Currently Learning:** I'm diving deeper into cloud-native technologies like Docker and exploring advanced concepts in game engine architecture with Unity.
-- 👯 **Looking to Collaborate:** I'm excited to contribute to open-source projects, especially those that challenge my skills in systems programming and DevOps.
-- 📫 **How to reach me:** You can find my contact details below. Let's connect!
+- 📫 **How to reach me / Pour me contacter :** You can find my contact details below. Let's connect!
 
 <br>
 
