@@ -59,16 +59,10 @@
   <a href="https://www.linkedin.com/in/christiano-daniel-juvence-andriambeloniaina-918865225" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <!-- 
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo" />
+  
+  <a href="mailto:candriam@student.42antananarivo.mg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo" />
   </a>
-  -->
-  <!-- 
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  -->
 </p>
 
 <br>
