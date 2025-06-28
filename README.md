@@ -67,11 +67,11 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
 - 💪 **Perseverance** through complex projects and debugging challenges
 
 **🚀 Currently:**
-- 📚 Deep mastery of **C/C++** and systems programming
-- 🐳 Exploring **cloud-native** technologies (Docker, Kubernetes)
-- 🎮 Building applications with **Unity**
-- 🔧 Automation and **DevOps**
-
+- 📚 Advancing through **42's systems programming curriculum**
+- 🌐 Mastered **C++ network programming** via ft_irc project implementation
+- 🐳 Learning **Docker containerization** and cloud-native technologies
+- 🎮 Developing with **Unity** and **Defold** game engines
+- 🔧 Building expertise in **automation** and modern DevOps workflows
 </div>
 <!-- About Me Section End -->
 
