@@ -1,21 +1,8 @@
-<!-- 
-Hello c-andriam! 
-
-Here is your updated README. 
-To make it perfect, you just need to:
-1. Add your portfolio link.
-2. Add your email address.
-3. (Optional) Uncomment and replace the banner URL with a cool GIF or image.
-
-Good luck with your GitHub journey! 
--->
-
-<!-- Optional Banner -->
-<!-- 
-<p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE_OR_GIF" alt="A cool banner showing something you like" />
+<!-- Banner Start -->
+<p align="center" style="margin-bottom:0;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient" alt="animated banner"/>
 </p>
--->
+<!-- Banner End -->
 
 <div align="center">
   <h1>
@@ -128,3 +115,15 @@ Good luck with your GitHub journey!
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-andriam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="c-andriam's top languages" />
 </p>
+
+<!-- Visitors Counter Start -->
+<br>
+<div align="center">
+
+  <!--h3>👁️ Nombre de visiteurs</h3-->
+  <img src="https://moe-count.glitch.me/get/@:c-andriam?theme=asoul" alt="moe-counter" />
+  <br>
+  <img src="https://profile-counter.glitch.me/c-andriam/count.svg" alt="Visitor Count" />
+
+</div>
+<!-- Visitors Counter End -->
