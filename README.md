@@ -1,13 +1,13 @@
 <!-- Banner Start -->
 <p align="center" style="margin-bottom:0;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient" alt="animated banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=50&fontAlignY=30&fontSize=65&color=gradient&desc=I'm%20candriam&descAlign=50&descAlignY=55&descSize=35" alt="animated banner"/>
 </p>
 <!-- Banner End -->
 
 <div align="center">
-  <h1>
-    Hi 👋, I'm candriam
-  </h1>
+  <!--h1>
+    I'm candriam
+</h1-->
   <h3>
     A passionate and rigorous software developer student at 42 Antananarivo.
   </h3>
