@@ -73,6 +73,14 @@
 
 <br>
 
+### 🎓 Education
+
+<p align="left">
+  <a href="https://42antananarivo.mg/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white" width="84" height="42" alt="42" />
+  </a>
+</p>
+
 ### 🛠 Languages and Tools
 
 <p align="left">
