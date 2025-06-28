@@ -68,7 +68,7 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
 
 **🚀 Currently:**
 - 📚 Advancing through **42's systems programming curriculum**
-- 🌐 Mastered **C++ network programming**
+- 🌐 Working on **C++ network programming**
 - 🐳 Learning **Docker containerization** and cloud-native technologies
 - 🎮 Developing with **Unity** and **Defold** game engines
 - 🔧 Building expertise in **automation** and modern DevOps workflows
