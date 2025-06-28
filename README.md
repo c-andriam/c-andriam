@@ -1,8 +1,11 @@
 <!-- Banner Start -->
-<p align="center" style="margin-bottom:0;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=50&fontAlignY=30&fontSize=65&color=gradient&desc=I'm%20candriam&descAlign=50&descAlignY=55&descSize=35" alt="animated banner"/>
+<p align="center" style="margin-bottom: 0;">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋%20I'm%20candriam&fontAlign=50&fontAlignY=40&fontSize=45&color=gradient" 
+       alt="Hi I'm candriam banner" />
 </p>
 <!-- Banner End -->
+
 
 <div align="center">
   <!--h1>
