@@ -50,6 +50,11 @@
 </table>
 
 - 📫 **How to reach me / Pour me contacter :** You can find my contact details below. Let's connect!
+<p align="left">
+  <a href="mailto:candriam@student.42antananarivo.mg">
+    <img src="https://img.shields.io/badge/Email-candriam@student.42antananarivo.mg-red?style=flat-square&logo=gmail&logoColor=white" alt="email badge" />
+  </a>
+</p>
 
 <br>
 
