@@ -3,7 +3,7 @@
 ||                                                                                                     ||
 ||  🚀 PROFESSIONAL GITHUB PROFILE - CHRISTIANO ANDRIAMBELONIAINA                                    ||
 ||                                                                                                     ||
-||  Version: 2.3 Enhanced English - Updated Metrics                                                   ||
+||  Version: 2.4 Enhanced English - Updated Tech Stack                                                ||
 ||  Last Updated: 2025-06-28                                                                          ||
 ||                                                                                                     ||
 ||  📝 Customization Instructions:                                                                    ||
@@ -61,10 +61,10 @@
 Hey there! I'm **Christiano**, a passionate developer currently studying at [**42 Antananarivo**](https://42antananarivo.mg/). My mission? Transforming complex ideas into elegant solutions through code.
 
 **🎯 What defines me:**
-- 🔥 **Passion** for systems programming and software architecture
-- 🧠 **Insatiable curiosity** for emerging technologies  
-- 🤝 **Active collaboration** in the open-source community
-- 💪 **Perseverance** when facing the toughest technical challenges
+- 🔥 **Passion** for mastering low-level programming and system design
+- 🧠 **Insatiable curiosity** for exploring new frameworks and development tools
+- 🤝 **Active collaboration** in peer-to-peer learning and code reviews
+- 💪 **Perseverance** through complex projects and debugging challenges
 
 **🚀 Currently:**
 - 📚 Deep mastery of **C/C++** and systems programming
@@ -122,7 +122,7 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   </p>
   
   <h3>🔧 Tools & Technologies</h3>
@@ -133,14 +133,18 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
     <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile"/>
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
+    <img src="https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=gnu&logoColor=white" alt="Nano"/>
+    <img src="https://img.shields.io/badge/Defold-FF6B35?style=for-the-badge&logo=defold&logoColor=white" alt="Defold"/>
   </p>
   
   <h3>💾 Environments</h3>
   <p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+    <img src="https://img.shields.io/badge/Virtual_Machine-FF6C37?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machine"/>
   </p>
   
 </div>
@@ -154,7 +158,7 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
 <div align="center">
   
   <!-- Statistiques GitHub principales -->
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-andriam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="c-andriam's GitHub stats"/-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-andriam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="c-andriam's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-andriam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   
   <br><br>
@@ -253,7 +257,7 @@ Hey there! I'm **Christiano**, a passionate developer currently studying at [**4
 <!-- Footer Section Start -->
 <div align="center">
   
-  <!--h3>👁️ Profile Visitors</h3-->
+  <h3>👁️ Profile Visitors</h3>
   <p>
     <img src="https://profile-counter.glitch.me/c-andriam/count.svg" alt="Visitor Counter"/>
   </p>
