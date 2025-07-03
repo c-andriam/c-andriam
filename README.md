@@ -58,7 +58,7 @@
 <!-- Section About Me avec alignement correct -->
 <div align="left" style="padding: 0 20px;">
 
-Hey there! I'm **Christiano**, a passionate developer currently studying at [**42 Antananarivo**](https://42antananarivo.mg/). My mission? Transforming complex ideas into elegant solutions through code.
+Hey there! I'm **candriam**, a passionate developer currently studying at [**42 Antananarivo**](https://42antananarivo.mg/). My mission? Transforming complex ideas into elegant solutions through code.
 
 **🎯 What defines me:**
 - 🔥 **Passion** for mastering low-level programming and system design
