@@ -257,10 +257,10 @@ Hey there! I'm **candriam**, a passionate developer currently studying at [**42 
 <!-- Footer Section Start -->
 <div align="center">
   
-  <h3>👁️ Profile Visitors</h3>
+  <!--h3>👁️ Profile Visitors</h3>
   <p>
     <img src="https://profile-counter.glitch.me/c-andriam/count.svg" alt="Visitor Counter"/>
-  </p>
+  </p-->
   
   <br>
   
